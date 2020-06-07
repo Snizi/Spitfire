@@ -1,0 +1,12 @@
+﻿  pch.cpp
+  bhop.cpp
+  dllmain.cpp
+C:\Users\luanm\source\repos\Spitfire\dllmain.cpp(8,36): warning C4326:  return type of 'main' should be 'int' instead of 'DWORD'
+  RCS.cpp
+C:\Users\luanm\source\repos\Spitfire\dllmain.cpp(17,6): warning C4101:  'tbDelay': unreferenced local variable
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\luanm\source\repos\Spitfire\RCS.cpp(68): warning C4715: 'RCS': not all control paths return a value
+  All 8 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Spitfire.vcxproj -> C:\Users\luanm\source\repos\Spitfire\x64\Release\Spitfire.dll

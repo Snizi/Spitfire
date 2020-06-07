@@ -1,0 +1,8 @@
+﻿  dllmain.cpp
+C:\Users\luanm\source\repos\Spitfire\dllmain.cpp(58,36): warning C4326:  return type of 'main' should be 'int' instead of 'DWORD'
+  Generating code
+  0 of 12 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Spitfire.vcxproj -> C:\Users\luanm\source\repos\Spitfire\Release\Spitfire.dll
